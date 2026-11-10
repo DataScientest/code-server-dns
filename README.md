@@ -109,7 +109,8 @@ Le journal `duckdns` indique si DuckDNS a accepté ou refusé la demande ; l'acc
 Depuis un navigateur autorisé, ouvrez :
 
 ```text
-https://formation.duckdns.org:444
+# exemple d'URL : https://formation.duckdns.org:444
+https://DOMAIN:PORT
 ```
 
 Remplacez le nom par le vôtre et utilisez le mot de passe du fichier de configuration. Vérifiez que le navigateur reconnaît le certificat, puis ouvrez un fichier, un terminal et testez les fonctions nécessaires au cours. Dans le terminal intégré, vous pouvez par exemple vérifier `docker version` et `docker compose version`.
